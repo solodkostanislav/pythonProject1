@@ -1,3 +1,2 @@
-print('Hello')
-32
-32
+a = int(input('введите число \n '))
+print (a)
